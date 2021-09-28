@@ -32,6 +32,8 @@ A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis, então todos os protótipos foram desenvolvidos em telas menores.
 
+Este projeto foi desenvolvido em grupo: [Marília](https://github.com/maricegalla), [Maria](https://github.com/maria-baeta), [Guilherme](https://github.com/guilhermemd) e [Stanrley](https://github.com/3011stan).
+
 ## Protótipo do projeto
 
 Você pode acessar um protótipo no link abaixo:
