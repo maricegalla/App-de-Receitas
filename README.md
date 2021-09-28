@@ -7,7 +7,6 @@
    - [Protótipo do projeto](#protótipo-do-projeto)
    - [APIs](#apis)
 - [Requisitos do projeto](#requisitos-do-projeto)
-  - [Lista de requisitos](#lista-de-requisitos)
 
 ---
 
@@ -15,8 +14,6 @@
 
 Nesse projeto, você será capaz de:
 
-  - Utilizar Redux para gerenciar estado
-  - Utilizar a biblioteca React-Redux
   - Utilizar a Context API do React para gerenciar estado
   - Utilizar o React Hook useState
   - Utilizar o React Hook useContext
@@ -219,16 +216,6 @@ Os requisitos são organizados por telas.
 Nesse projeto, a pessoa que estiver utilizando o app pode procurar uma receita especifica, explorar receitas baseado em diferentes critérios, favoritar e fazer as receitas entre outras funcionalidades.
 
 As telas sofrem variações dependendo do tipo da receita (se é comida ou bebida, no caso).
-
-
-## Testes unitários
-
-### 1 - Desenvolva os testes unitários de maneira que a cobertura seja de, no mínimo, 90%
-
-  O que será verificado:
-  ```
-  - Verifica a cobertura de testes unitários
-  ```
 
 ## Tela de login
 
