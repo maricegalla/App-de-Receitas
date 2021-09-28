@@ -12,13 +12,15 @@
 
 # Habilidades
 
-Nesse projeto, você será capaz de:
+Nesse projeto, foram utilizados:
 
-  - Utilizar a Context API do React para gerenciar estado
-  - Utilizar o React Hook useState
-  - Utilizar o React Hook useContext
-  - Utilizar o React Hook useEffect
-  - Criar Hooks customizados
+  - Context API do React para gerenciar estado
+  - React Hook useState
+  - React Hook useContext
+  - React Hook useEffect
+  - Hooks customizados
+
+<p align="center"><img src="https://camo.githubusercontent.com/bb61e625c9202379e11e39d0973c5e997fec06dd4e50e1b0ea9f63e7750d48ff/68747470733a2f2f692e6962622e636f2f507a47394d38762f72656163742d64656c61792d352e676966" alt="react" width="10%"></img></p>
 
 ---
 
