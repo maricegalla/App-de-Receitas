@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto App de Receitas!
+# Bem vindos ao repositório do projeto App de Receitas!
 
 # Sumário
 
