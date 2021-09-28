@@ -3,7 +3,7 @@
 # Sumário
 
 - [Habilidades](#habilidades)
-- [O que foi Desenvolvido](#o-que-foi-desenvolvido)
+- [O que foi desenvolvido](#o-que-foi-desenvolvido)
    - [Protótipo do projeto](#protótipo-do-projeto)
    - [APIs](#apis)
 - [Requisitos do projeto](#requisitos-do-projeto)
@@ -24,7 +24,7 @@ Nesse projeto, foram utilizados:
 
 ---
 
-# O que foi Desenvolvido
+# O que foi desenvolvido
 
 Foi desenvolvido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
